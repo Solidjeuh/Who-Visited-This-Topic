@@ -41,4 +41,6 @@ $lang = array_merge($lang, array(
 	'ACP_WHOVISITEDTHISTOPIC_TITLE'				=> 'Wie Bezocht Deze Topic',
 	'ACP_WHOVISITEDTHISTOPIC_SETTINGS'			=> 'Instellingen',
 	'ACP_WHOVISITEDTHISTOPIC_OPTIONS_SAVED'		=> 'Wie Bezocht Deze Topic opties werden opgeslagen.',
+	// Log entries
+	'LOG_WHOVISITEDTHISTOPIC_UPDATE'			=> '<strong>Wie Bezocht Deze Topic instellingen opgeslagen</strong>',
 ));

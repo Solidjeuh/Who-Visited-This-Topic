@@ -38,6 +38,7 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
+	'WHOVISITEDTHISTOPIC_INDEX'					=> 'Wie Bezocht Deze Topic',
 	'ACL_U_WHOVISITEDTHISTOPIC'					=> 'Kan Wie Bezocht Een Topic bekijken in topics',
 	'ACL_U_WHOVISITEDTHISTOPIC_COUNT'			=> 'kan Wie Bezocht Een Topic teller bekijken in topics',
 	'ACL_U_WHOVISITEDTHISTOPIC_PROFILE'			=> 'Kan Wie Bezocht Een Topic bekijken in het profiel',
