@@ -3,7 +3,6 @@
 *
 * @package phpBB Extension - Who Visited This Topic
 * @copyright (c) 2016 dmzx - https://www.dmzx-web.net
-* Nederlandse vertaling @ Solidjeuh <https://www.muziekpromo.net>
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 *
 */
@@ -52,5 +51,5 @@ $lang = array_merge($lang, array(
 	'WHOVISITEDTHISTOPIC_VISIT_SETTING_EXPLAIN'			=> 'Waarde instelbaar van 2 tot 255 leden. <em>Standaard is 10.</em>',
 	'WHOVISITEDTHISTOPIC_DISABLED_TOPIC'				=> 'Uitgeschakeld. Zet “Schakel Wie Bezocht Deze Topic aan in topics” op Ja om een waarde in te stellen',
 	'WHOVISITEDTHISTOPIC_DISABLED_MEMBERPAGE'			=> 'Uitgeschakeld. Zet “Schakel Wie Bezocht Deze Topic aan in profielen” op Ja om een waarde in te stellen',
-	'WHOVISITEDTHISTOPIC_SETTINGS_EXPLAIN'				=> 'Ga naar de <em><strong>Wie Bezocht Deze Topic</strong></em> tab in de Groep Permissie sectie om permissies in te stellen voor iedere groep..',
+	'WHOVISITEDTHISTOPIC_SETTINGS_EXPLAIN'				=> 'Ga naar de <em><strong>Wie Bezocht Deze Topic</strong></em> tab in de Groep Permissie sectie om permissies in te stellen voor iedere groep',
 ));
